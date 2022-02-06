@@ -1,7 +1,8 @@
 # Cubanim-ToolkitUnity
 Cubanim est une solution faire des animations à l'aide d'image target reconnu par une camera. 
 
-[image du projet](assets/photo.jpg)
+[](assets/photo.jpg)
+
 
 Si vous voulez réutiliser Cubanim sur votre projet, toute la documentation est disponible [ici](#) // Lien a venir
 
